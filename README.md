@@ -1,44 +1,22 @@
-\# Proyecto Final - Sabor Express
+# Proyecto Final - Sabor Express
 
+## Integrantes
+Starlin Fabian Fernandez
 
+## Universidad
+O&M
 
-\## Integrantes
-
-Estarlin Fabian Fernandez
-
-
-
-\## Universidad
-
-\[Nombre de tu universidad]
-
-
-
-\## Materia
-
+## Materia
 Administración de Servidores
 
+## Sección
+0908
 
+## Descripción
+Este proyecto es un servicio web básico que permite mostrar información de una empresa ficticia de comida y mas variedades a petición del usuario cubriendo sus necesidades.
 
-\## Sección
+## Demo
+[Link de tu video en YouTube]
 
-\[Tu sección]
-
-
-
-\## Descripción
-
-Este proyecto es un servicio web básico que permite mostrar información de una empresa ficticia de comida.
-
-
-
-\## Demo
-
-\[Link de tu video en YouTube]
-
-
-
-\## License
-
+## License
 MIT License
-
